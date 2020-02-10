@@ -3,4 +3,4 @@ Project to migrate Campanella et al PyTorch work to fastai2
 
 Using as working example ECDP2020 dataset for weakly supervised learning (https://ecdp2020.grand-challenge.org/)
 
-Training and valid dictionaries are generated using `Generate_disctionaries.ipynb`
+Training and valid dictionaries are generated using `Generate_disctionaries.ipynb` and libvips (https://github.com/libvips/libvips) dzsave tiling
